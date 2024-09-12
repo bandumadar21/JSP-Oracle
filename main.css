@@ -1,0 +1,32 @@
+body{
+margin:0px;
+padding:0px;
+box-sizing:box-size;
+background-color: #9B2335;
+}
+div{
+display:flex;
+justify-content:center;
+width:400px;
+border:5px solid green;
+border-radius:10px;
+padding:20px;
+margin:auto;
+margin-top:50px;
+background-color:gray;
+}
+button{
+background-color:blue;
+border:0px;
+border-radius:10px;
+padding:20px;
+color:white;
+font-size:20px;
+}
+#insert{
+    margin-left:30px;
+}
+h3{
+    margin-bottom:50px;
+    color:darkblue;
+}

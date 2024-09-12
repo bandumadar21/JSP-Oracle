@@ -1,0 +1,42 @@
+div{
+display:flex;
+justify-content:center;
+width:300px;
+background-color:lightpink;
+border-radius:10px;
+padding:20px;
+margin:auto;
+margin-top:50px;
+}
+table{
+border-collapse:collapse;
+width:100%;
+color#003135;
+}
+tr:nth-child(even) {
+            background-color: lightgray;
+        }
+td{
+padding:10px;
+text-align:center;
+}
+#one{
+color:darkblue;
+font-size:20px;
+text-align:left;
+}
+a{
+    display:flex;
+    justify-content:center;
+    text-decoration:none;
+    color:white;
+    background-color:blue;
+    width:80px;
+    height:40px;
+    margin:auto;
+    border-radius:10px;
+    margin-top:10px;
+  }
+  span{
+    margin-top:10px;
+  }
